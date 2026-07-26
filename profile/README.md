@@ -11,5 +11,6 @@ same links, two interfaces. No cloud, no database, no lock-in.
 - **Community** → [Discussions](https://github.com/iwe-org/iwe/discussions) · [r/iwe](https://www.reddit.com/r/iwe/) · [@iwe_md](https://x.com/iwe_md)
 
 ```bash
-brew install iwe-org/iwe/iwe   # or: cargo install iwe iwes iwec
+brew tap iwe-org/iwe
+brew install iwe   # or: cargo install iwe iwes iwec
 ```
